@@ -11,7 +11,7 @@ I used Tailwind CSS to make this project.
  #### I got the basic understanding of HTML Tags and Tailwind CSS Concept.
    
 
-[Click here to view live 🚀](https://mybonton.netlify.app/ "Street Style Landing Page")
+[Click here to view live 🚀](https://microsoft-new-homepage.netlify.app/ "Street Style Landing Page")
 
 ## Screenshot of the Project 👇
 ![](/images/Screenshot%202022-09-08%20at%2013-51-31%20Microsoft%20-%20Cloud%20Computers%20Apps%20%26%20Gaming.png)
